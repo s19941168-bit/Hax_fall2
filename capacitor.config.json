@@ -1,0 +1,9 @@
+{
+  "appId": "com.hexfall.game",
+  "appName": "Hex Fall 3D",
+  "webDir": "www",
+  "backgroundColor": "#1b0f3d",
+  "android": {
+    "allowMixedContent": false
+  }
+}
